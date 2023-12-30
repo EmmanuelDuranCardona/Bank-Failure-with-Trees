@@ -1,5 +1,5 @@
 # Bank-Failure-with-Trees
 
-This is an assignment from course: "Fundamentals of Machine Learning in Finance"
-Professor: Igor Halperin
-Platform: Coursera
+## This is an assignment from course: "Fundamentals of Machine Learning in Finance"
+## Professor: Igor Halperin
+## Platform: Coursera
